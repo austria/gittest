@@ -25,7 +25,7 @@
   "homepage": "https://github.com/QuellxCode/EVV-Back-end#readme",
   "dependencies": {
     "babel-core": "^6.18.0",
-    "bcrypt": "^3.0.4",
+    "bcrypt": "^5.0.0",
     "config": "^3.0.1",
     "cors": "^2.8.5",
     "datejs": "^1.0.0-rc3",
